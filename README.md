@@ -7,3 +7,5 @@ As a result of these fake ids, people are going through depression or committing
 A simple approach 
 
 We can develop a feature with the help of face recognition technology to extract the ids that are using our photographs.
+
+Read the Documentation for complete understanding.
